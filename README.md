@@ -1,50 +1,62 @@
-# Welcome to your Expo app 👋
+PubQuizLeague
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A mobile quiz application built with React Native and Expo as part of my journey into professional software development.
 
-## Get started
+Overview:
 
-1. Install dependencies
+What is it?
 
-   ```bash
-   npm install
-   ```
+App desinged to make hosting a pub quiz league, as well as keeping track of and displaying player statistics.
 
-2. Start the app
+Why am I building it?
 
-   ```bash
-   npx expo start
-   ```
+I am building this to practice as a learning exercise of how to create an mobile app. Eventually I want to be using the skills I've learned here to make not only fun public applications for the public, but also bespoke apps for sole traders and small businesses. I am also using this as experiece in exploreing and refining the way that I work with AI to increase efficineny and ability.
 
-In the output, you'll find options to open the app in a
+Who is it for?
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Largely this app is for myself. If I'm particularly pleased with it I may use it at my local pub to host a Pub Quiz League and at that point I will probably look at changing the name. 
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Features
 
-## Get a fresh project
+ - Sinlge player quizzes
+ - Score tracking
+ - Statistics with graphical displays
+ - Multiplayer league
+ - Multiplayer simultaneous play
+ - Responsive and stylish mobile UI
+ - Authentication
 
-When you're ready, run:
+Tech Stack
 
-```bash
-npm run reset-project
-```
+ - React Native
+ - Expo
+ - TypsScript
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+What I've learned so far:
 
-To learn more about developing your project with Expo, look at the following resources:
+Hoenstly, so much. Workflow models, domain models, expo, component architecture, navigation, working with AI, file management and progress logs. 
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Roadmap:
 
-## Join the community
+Version 1: Single Player Quiz
 
-Join our community of developers creating universal apps.
+- so far I have a working 3 question test quiz that I believe is scaleable.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Next steps: Scale the quiz
+After that: Add detailed results tracking and stats screen
+
+- add catergories
+- add dificulties
+- add more questions
+- add a detailed results page
+- add statistical analyisis
+
+Version 2: Multiplayer
+
+- User Accounts
+- League dashboard
+
+
+(more to come)
+
