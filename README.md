@@ -406,16 +406,25 @@ These limitations are expected at the current stage and are recorded here to mak
 
 ## Screenshots
 
-Screenshots of the current application will be added as the user interface is refined.
+### Home Screen
 
-Planned additions include:
+![PubQuizLeague home screen](docs/images/home_screen(13.7.26).PNG)
 
-* home screen;
-* single-player quiz;
-* answer feedback;
-* quiz results;
-* navigation flow;
-* domain model diagram.
+### Temporary Holding Screen
+
+![PubQuizLeague holding screen template example (league)](docs/images/screenholdingtemplate.PNG)
+
+### Single-Player Quiz
+
+![PubQuizLeague single-player quiz screen home](docs/images/SPquizscreenhome.PNG)
+
+![PubQuizLeague single-player quiz screen](docs/images/singleplayerquizscreen(13.7.26).PNG)
+
+![PubQuizLeague single-player quiz flow](docs/images/SPquizflow.PNG)
+
+### Quiz Results
+
+![PubQuizLeague single-player quiz results](docs/images/SPquizresult.PNG)
 
 ---
 
